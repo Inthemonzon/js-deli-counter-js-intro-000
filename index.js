@@ -42,3 +42,4 @@ function currentLine(katzDeliLine){
     }
   }
   return output
+}
