@@ -27,7 +27,8 @@ function currentLine(katzDeli) {
   } else
     return (`The line is currently:` + line);
 }
-
+//Need to review this lab again at some point
+//Came up with above and got help with making below
 function currentLine(katzDeliLine){
   var len = katzDeliLine.length;
   var output;
